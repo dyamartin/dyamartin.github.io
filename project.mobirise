@@ -3677,8 +3677,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dya-martin-artistic-dramatic-2000x3000.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dya-martin-artistic-dramatic-1000x1500.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3713,7 +3713,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dyam-radikal-film-photoshoot-copy-1366x2048.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
