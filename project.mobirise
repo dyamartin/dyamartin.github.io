@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Dya Martin",
-    "currentPage": "gallery.html",
+    "currentPage": "gallery.gethub.io..html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 181,
+    "uniqCompNum": 187,
     "versionPublish": "4.3.5",
     "theme": {
       "name": "mobirise4",
@@ -4457,9 +4457,9 @@
         }
       ]
     },
-    "gallery.html": {
+    "gallery.gethub.io..html": {
       "settings": {
-        "title": "Gallery",
+        "title": "Page 6",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -4487,7 +4487,7 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "header2-4v"
+          "_anchor": "header2-51"
         },
         {
           "_name": "menu1",
@@ -4884,7 +4884,7 @@
           "_global": true,
           "_once": "menu",
           "_params": {},
-          "_anchor": "menu1-4w"
+          "_anchor": "menu1-52"
         },
         {
           "_styles": {
@@ -5723,7 +5723,7 @@
               }
             ]
           },
-          "_anchor": "slider2-4x"
+          "_anchor": "slider2-53"
         },
         {
           "_styles": {
@@ -5755,7 +5755,7 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "social-buttons2-4y"
+          "_anchor": "social-buttons2-54"
         },
         {
           "_styles": {
@@ -5843,7 +5843,7 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "footer1-4z"
+          "_anchor": "footer1-55"
         },
         {
           "_styles": {
@@ -5863,7 +5863,7 @@
           "_global": true,
           "_once": true,
           "_params": {},
-          "_anchor": "footer6-50"
+          "_anchor": "footer6-56"
         }
       ]
     }
