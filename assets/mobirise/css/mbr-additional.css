@@ -1280,9 +1280,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-qzpF9sty2i {
-  background-image: url("../../../assets/images/dyamartin-headshot-2000x1248.jpg");
-}
 .cid-qzpHUZ0Shd {
   background-image: url("../../../assets/images/img-2029-2000x1333.jpg");
 }
@@ -1586,4 +1583,7 @@ body {
 .cid-qzpL69cWjS .mbr-text,
 .cid-qzpL69cWjS .mbr-section-btn {
   text-align: left;
+}
+.cid-qzpF9sty2i {
+  background-image: url("../../../assets/images/dyamartin-headshot-2000x1248.jpg");
 }
