@@ -1280,6 +1280,35 @@ body {
     width: 100% !important;
   }
 }
+.cid-qzqe0gz1Q1 {
+  background-image: url("../../../assets/images/img-1830-620x577.jpg");
+}
+.cid-qzpL69cWjS {
+  background-image: url("../../../assets/images/img-2760-612x612.jpg");
+}
+.cid-qzpL69cWjS .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qzpL69cWjS .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qzpL69cWjS .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-qzpL69cWjS H1 {
+  text-align: left;
+}
+.cid-qzpL69cWjS .mbr-text,
+.cid-qzpL69cWjS .mbr-section-btn {
+  text-align: left;
+}
+.cid-qzpF9sty2i {
+  background-image: url("../../../assets/images/dyamartin-headshot-2000x1248.jpg");
+}
 .cid-qzpHUZ0Shd {
   background-image: url("../../../assets/images/img-2029-2000x1333.jpg");
 }
@@ -1557,33 +1586,4 @@ body {
 }
 .cid-qzpIykGQtG .content-slider-wrap {
   width: 60%;
-}
-.cid-qzqe0gz1Q1 {
-  background-image: url("../../../assets/images/img-1830-620x577.jpg");
-}
-.cid-qzpL69cWjS {
-  background-image: url("../../../assets/images/img-2760-612x612.jpg");
-}
-.cid-qzpL69cWjS .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qzpL69cWjS .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qzpL69cWjS .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qzpL69cWjS H1 {
-  text-align: left;
-}
-.cid-qzpL69cWjS .mbr-text,
-.cid-qzpL69cWjS .mbr-section-btn {
-  text-align: left;
-}
-.cid-qzpF9sty2i {
-  background-image: url("../../../assets/images/dyamartin-headshot-2000x1248.jpg");
 }
