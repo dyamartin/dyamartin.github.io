@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dya Martin",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -219,7 +219,7 @@
         }
       ]
     },
-    "gallery.html": {
+    "index.html": {
       "settings": {
         "meta_descr": "Gallery | Dya Martin",
         "title": "Gallery",
